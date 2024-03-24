@@ -1,0 +1,55 @@
+CHAT GPT Promptları
+https://chat.openai.com/share/11283008-44c2-462b-9e3a-d43fa99f8edb
+
+Prompt 1:
+İsteklerimi bir ön web geliştiricisi olarak yanıt vermeni istiyorum. 
+Proje için HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript kulan bir web sitesi kodlayacaksın.
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+Yazdığın HTML, CSS ve Javascript kodlarını ayrı ayrı vermeni istiyorum.
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+Prompt 2:
+web sitesi bir porfolio galeri web sitesi ve burada yemek önerisi yapmak istiyorum. 
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir. 
+Sayfa içeriğinde bugün ne yesem adlı bir buton olmasını istiyorum. Bu buton sayfanın ortasında olacak ve  basıldığı zaman random bir şekilde bir yemek gelmesini çok önemlidir. 
+Yemek önerisi yapıldığında ise o yemeğin görseli benim jpg formatında seçtiğim resimler olsun istiyorum.
+Resimler 300x300 boyutlarında görünsün.
+Rastgele yemek ile birlikte resim ortaya çıktığı zamanda benim belirttiğim bir text, resmin altında gözüksün istiyorum. Bana bu web sitesini oluşturmada yardımcı olur musun ?
+resimler ve butonlar sitenin ortasında dursun
+Header kısmında "Rabia Öneriyor yazısı olsun" 
+
+Prompt 3:
+Header arka planı mavi olsun istiyorum ve bu değişikliği yaptığın kısmı yorum ile belirtebilir misin ?
+
+Prompt 4:
+Websitenin altında benim jpg formatında bir logom yer alsın istiyorum. Boyutu da 200X200 şeklinde olsun
+
+Prompt 5:
+2024 Rabia's Portfolio yazan bölümü "En iyi yemek önerileri" olarak değiştirebilir misin
+
+Prompt 6:
+Buraya kadar her şey tamam. Şimdi websitesine küçük bir ekleme yapmak istiyorum. Yemek önerisi yapıldıktan sonra bu yemeği yiyecek misin diye sorulsun. Bu soru ardından evet ve hayır butonu çıksın. Kullanıcı evet butonuna basınca sayfada balonlar uçuşsun hayır butonuna basarsa  tekrar yemek önerilirsin. 
+
+Prompt 7:
+Evet butonuna basıldığında benim seçtiğim .gif uzantılı bir gif ekranda gözüksün
+
+Prompt 8:
+uclus.gif sadece evet butonuna basıldığında ortaya bir defa çıksın ve başka butona basılınca ekranda kesinlikle gözükmemesi önemli. Hayır butonu da  kullancı evete basana kadar gözüksün ve her hayıra butonuna basıldığı zaman yeni yemek önersin.
+
+Prompt 9:
+Küçük bir ekleme yapmanı istiyorum. Kullanıcı evet e basınca uclus gif çıksın ve bugün ne yeseme basarsa uclus gif ekranda gözükmesin
+
+LEONARDO AI Promptları
+
+"Resim oluşturma"
+
+Dancing burgers
+Dancing sushi plate
+A smiling pasta
+I want a meal with happy chicken pieces that look delicious on the plate.
+I want a ravioli plate that looks delicious and has smiling dumplings inside.
+I want a picture of food with meatballs flying around.
+I want a picture of a plate of dancing pizzas
+I want a picture of a plate of kebabs with a dark red background.
+I want a universe of happy foods

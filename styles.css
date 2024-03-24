@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #007bff; /* Mavi renk kodu */
+    color: #fff;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px 0;
+}
+
+#mealDisplay {
+    margin-top: 20px;
+}
+
+#mealImage {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    display: none; /* Resmi başlangıçta gizle */
+}
